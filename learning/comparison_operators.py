@@ -80,3 +80,5 @@ if my_bool2 is True:
     print(num3 + " is the greater number")
 else:
     print(num4 + " is the greater number")
+
+# EDITS
